@@ -1,0 +1,18 @@
+Ford;Mustang;2021;50000
+Chevrolet;Camaro;2020;40000
+Tesla;Model 3;2021;60000
+Toyota;Corolla;2019;20000
+Honda;Civic;2018;22000
+Nissan;Altima;2020;23000
+BMW;M3;2021;70000
+Audi;A4;2019;45000
+Mercedes;C-Class;2020;48000
+Hyundai;Elantra;2021;19000
+Kia;Forte;2020;18000
+Volkswagen;Jetta;2021;25000
+Subaru;Impreza;2021;26000
+Mazda;CX-5;2021;35000
+Porsche;911;2021;100000
+Lexus;IS;2020;42000
+Toyota;RAV4;2021;33000
+Toyota;RAV4;2021;33000
